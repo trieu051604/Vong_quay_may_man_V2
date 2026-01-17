@@ -128,14 +128,14 @@ const App: React.FC = () => {
 
       <header className="mb-8 sm:mb-12 text-center relative z-10 w-full">
         <h1 className="text-3xl xs:text-4xl sm:text-5xl md:text-6xl font-tech font-bold neon-glow text-cyan-400 mb-2 uppercase tracking-widest">
-          TECH DRAW 2024
+          TECHXPERIENCE DRAW
         </h1>
-        <div className="flex items-center justify-center gap-2">
+        {/* <div className="flex items-center justify-center gap-2">
             <span className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse"></span>
             <span className="text-cyan-400/60 font-tech text-xs sm:text-sm uppercase tracking-widest">
                 Pool: {eligiblePool.length} người
             </span>
-        </div>
+        </div> */}
       </header>
 
       <main className="w-full max-w-4xl flex flex-col items-center justify-center gap-8 sm:gap-12 relative z-10">
