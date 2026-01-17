@@ -1,0 +1,7 @@
+{
+  "name": "Tech Lucky Draw - Futuristic Edition",
+  "description": "A neon-themed, high-performance lucky draw application with slot machine effects, connected to Google Sheets via Apps Script.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
